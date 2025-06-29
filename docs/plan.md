@@ -26,7 +26,6 @@ region-insight/
 -   **Section 0**: Choropleth (종합지표 지도, Highcharts Maps)
 -   **Section 1~4**: Bar/Line/Stacked (분야별 격차)
 -   **Section 5**: Sankey (인구 이동, Highcharts Sankey)
--   **Section 6**: Donut (성별/경제활동, Highcharts Pie/Donut)
 -   모든 차트는 detailed_sections.md 기준 툴팁/범례/색상/옵션 일관 적용
 
 ## 4. API 설계 예시 (FastAPI)

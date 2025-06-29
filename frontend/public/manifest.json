@@ -12,5 +12,4 @@
     "display": "standalone",
     "theme_color": "#ffffff",
     "background_color": "#ffffff"
-    // 최소 구성, 필요시 추가 가능
 }

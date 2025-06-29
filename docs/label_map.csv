@@ -1,0 +1,47 @@
+﻿영문 키,한글 항목명,설명
+total_population,총인구수,해당 지역 전체 인구 수
+male_population,남자인구수,해당 지역 남성 인구 수
+female_population,여자인구수,해당 지역 여성 인구 수
+registered_households,주민등록세대수,해당 지역의 주민등록 기준 세대 수
+moved,이동자수,전출지 → 전입지로 이동한 인구 수
+net_moved,순이동자수,전입 - 전출로 계산된 순 이동자 수
+kindergartens,유치원수,유치원 총 개수
+classes,학급수,개설된 학급 수
+children,원아수,등록된 원아 수
+teachers,교원수,재직 중인 교원 수
+schools,학교수,해당 급별 학교 수 (초/고)
+students,학생수,재학 중인 학생 수
+classrooms,교실수,실제로 사용 가능한 교실 수
+schools_total,중학교수,전체 중학교 수
+schools_boys,남중학교수,남자 중학교 수
+schools_girls,여중학교수,여자 중학교 수
+schools_coed,공학중학교수,남녀공학 중학교 수
+staff_total,교직원수,전체 교직원 수
+staff_teachers,중등교원수,중학교 교사 수
+staff_non_teachers,중등일반직원수,중학교 일반 직원 수
+admissions_total,입학자수,해당 연도 입학자 수
+classrooms_total,중등교실수,중학교 교실 수
+classes_total,중등학급수,중학교 학급 수
+students_total,전체학생수,전체 재학생 수
+departments,학과수,설치된 학과 수
+total_count,의료기관수_총계,공공의료기관 전체 기관 수
+general_regional_count,광역의료기관수,광역 이상 일반 진료 중심 기관 수
+general_local_count,기초의료기관수,기초 자치단체 일반 진료 중심 기관 수
+special_target_count,특수대상기관수,특수 대상 중심 기관 수
+special_disease_count,특수질환기관수,특수 질환 중심 기관 수
+elderly_hospital_count,노인병원기관수,노인병원 수
+total_beds,병상수_총계,공공의료기관 전체 병상 수
+general_regional_beds,광역병상수,광역 이상 병상 수
+general_local_beds,기초병상수,기초 자치단체 병상 수
+special_target_beds,특수대상병상수,특수 대상 병상 수
+special_disease_beds,특수질환병상수,특수 질환 병상 수
+elderly_hospital_beds,노인병원병상수,노인병원 병상 수
+population_15_over,15세이상인구,15세 이상 인구 수 (천 명 단위)
+economically_active,경제활동인구,경제활동 인구 수 (천 명)
+employed,취업자수,취업자 수 (천 명)
+unemployed,실업자수,실업자 수 (천 명)
+economically_inactive,비경제활동인구,비경제활동 인구 수 (천 명)
+labor_force_participation_rate,경제활동참가율,경제활동인구 / 15세 이상 인구 (%)
+unemployment_rate,실업률,실업자 / 경제활동인구 (%)
+employment_rate,고용률,취업자 / 15세 이상 인구 (%)
+employment_rate_15_64,15~64세 고용률,15~64세 인구 기준 고용률 (%)

@@ -167,26 +167,6 @@ df['RDCI'] = (
 
 ---
 
-## 🔹 섹션 6: 성별 인구 및 경제활동 분포
-
--   **차트 유형**: Donut Chart (중앙 값 포함 파이 차트)
--   **표시 데이터**:
-
-    -   인구: `male_population`, `female_population`
-    -   경제활동: `economically_active`, `economically_inactive`
-
--   **설명**:
-
-    -   좌: 성별 인구 파이 차트 (중앙에 `total_population` 표시)
-    -   우: 경제활동 인구 파이 차트 (중앙에 `labor_force_participation_rate` 표시)
-
--   **범례/상호작용**:
-
-    -   지역 및 연도 선택 가능
-    -   차트 제목: `{연도}년 {지역} 성별 인구 및 경제활동 구조`
-
----
-
 ## 📝 기타 주의 사항
 
 -   모든 섹션은 연도 및 지역 선택 시 null 값은 자동 필터링 처리

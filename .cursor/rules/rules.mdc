@@ -6,7 +6,7 @@ alwaysApply: true
 - 백엔드는 `backend/app/` 디렉토리에서 `uvicorn main:app --reload` 명령어로 FastAPI 서버를 실행합니다.
 - 프론트엔드는 `frontend/` 디렉토리에서 `npm start` 명령어로 React 개발 서버를 실행합니다.
 - 백엔드 의존성 설치는 `conda activate region-insight` 후 가상환경에서 진행합니다.
-- 프론트엔드 모듈 설치는 `frontend\` 디렉토리에서 진행합니다.
+- 프론트엔드 의존성 설치는 `frontend\` 디렉토리에서 진행합니다.
 ---
 
 ### 코드 스타일

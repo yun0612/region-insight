@@ -3,6 +3,7 @@ import "./App.css";
 import Section0Map from "./components/Section0Map";
 import Section1Population from "./components/Section1Population";
 import Section2Economy from "./components/Section2Economy";
+import Section3Education from "./components/Section3Education";
 
 function App() {
     // 연도 선택 상태 (기본값: 2023)
@@ -37,7 +38,8 @@ function App() {
             <Section1Population year={year} />
             {/* Section2: 고용(경제) 차트 */}
             <Section2Economy year={year} />
-            {/* <Section3EducationBar /> */}
+            {/* Section3: 교육 차트 */}
+            <Section3Education year={year} />
             {/* <Section4HealthcareStacked /> */}
             {/* <Section5MigrationSankey /> */}
             {/* <Section6PopulationDonut /> */}
